@@ -1,4 +1,6 @@
 ### Hi there 👋
+Olá! Hoje 17/03/2023 primeiro dia de aula prática sobre (GITHUB)
+
 
 <!--
 **Marleteferreira/Marleteferreira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
